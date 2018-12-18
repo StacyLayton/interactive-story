@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MusicRoomStory/precache-manifest.7577783295dc8084155b6c6cfe1519fd.js"
+  "/MusicRoomStory/interactive-story/precache-manifest.b3f8ef256f9dc4a50514ee02c21d8bac.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MusicRoomStory/index.html", {
+workbox.routing.registerNavigationRoute("/MusicRoomStory/interactive-story/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

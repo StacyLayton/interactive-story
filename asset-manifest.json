@@ -1,14 +1,14 @@
 {
-  "main.css": "/MusicRoomStory/static/css/main.7b19eb78.chunk.css",
-  "main.js": "/MusicRoomStory/static/js/main.57603fa0.chunk.js",
-  "main.js.map": "/MusicRoomStory/static/js/main.57603fa0.chunk.js.map",
-  "static/js/1.324b6cf3.chunk.js": "/MusicRoomStory/static/js/1.324b6cf3.chunk.js",
-  "static/js/1.324b6cf3.chunk.js.map": "/MusicRoomStory/static/js/1.324b6cf3.chunk.js.map",
-  "runtime~main.js": "/MusicRoomStory/static/js/runtime~main.6bd16fef.js",
-  "runtime~main.js.map": "/MusicRoomStory/static/js/runtime~main.6bd16fef.js.map",
-  "static/media/logo.svg": "/MusicRoomStory/static/media/logo.5d5d9eef.svg",
-  "static/css/main.7b19eb78.chunk.css.map": "/MusicRoomStory/static/css/main.7b19eb78.chunk.css.map",
-  "index.html": "/MusicRoomStory/index.html",
-  "precache-manifest.7577783295dc8084155b6c6cfe1519fd.js": "/MusicRoomStory/precache-manifest.7577783295dc8084155b6c6cfe1519fd.js",
-  "service-worker.js": "/MusicRoomStory/service-worker.js"
+  "main.css": "/MusicRoomStory/interactive-story/static/css/main.7b19eb78.chunk.css",
+  "main.js": "/MusicRoomStory/interactive-story/static/js/main.a4ff08f8.chunk.js",
+  "main.js.map": "/MusicRoomStory/interactive-story/static/js/main.a4ff08f8.chunk.js.map",
+  "static/js/1.324b6cf3.chunk.js": "/MusicRoomStory/interactive-story/static/js/1.324b6cf3.chunk.js",
+  "static/js/1.324b6cf3.chunk.js.map": "/MusicRoomStory/interactive-story/static/js/1.324b6cf3.chunk.js.map",
+  "runtime~main.js": "/MusicRoomStory/interactive-story/static/js/runtime~main.734cf996.js",
+  "runtime~main.js.map": "/MusicRoomStory/interactive-story/static/js/runtime~main.734cf996.js.map",
+  "static/media/logo.svg": "/MusicRoomStory/interactive-story/static/media/logo.5d5d9eef.svg",
+  "static/css/main.7b19eb78.chunk.css.map": "/MusicRoomStory/interactive-story/static/css/main.7b19eb78.chunk.css.map",
+  "index.html": "/MusicRoomStory/interactive-story/index.html",
+  "precache-manifest.b3f8ef256f9dc4a50514ee02c21d8bac.js": "/MusicRoomStory/interactive-story/precache-manifest.b3f8ef256f9dc4a50514ee02c21d8bac.js",
+  "service-worker.js": "/MusicRoomStory/interactive-story/service-worker.js"
 }
